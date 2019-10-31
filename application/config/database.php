@@ -79,7 +79,7 @@ $db['default'] = array(
 	'username' => 'bba202409424bd',
 	'password' => 'cfea8fcc',
 	'database' => 'heroku_1126c7d976ca132',
-	'dbdriver' => 'mysqli',
+	'dbdriver' => 'mysql',
 	'dbprefix' => '',
 	'pconnect' => FALSE,
 	'db_debug' => (ENVIRONMENT !== 'production'),
