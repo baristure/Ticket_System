@@ -7,12 +7,10 @@
 </div>
 <footer class="main-footer jumbotron" style="text-align: center;">
         <div class="container">
-            <p>Made with
-                <span class="emoji" role="img" aria-label="Fast">💨</span> by Barış TÜRE for the İpsiz Cambaz Prework
-            </p>
+            <p>Made with by Barış TÜRE for the İpsiz Cambaz Prework</p>
             <p>Source code is available on my
                 <a
-                href="https://github.com/baristure"
+                href="https://github.com/baristure/Ticket_System"
                 target="_blank"
                 rel="noopener noreferrer"
                 >GitHub page
