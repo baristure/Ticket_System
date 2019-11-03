@@ -1,3 +1,4 @@
+
 # TicketSystem
 Support Management System
 
@@ -35,12 +36,14 @@ The Employee of the company should be able to:
 
 We have two version of this project.
 
-Online version
+Online version&Repo
+This site was built using Heroku. >>> [Here is the live version](https://ticketsupportsystem.herokuapp.com/)
+
 > https://github.com/baristure/Ticket_System
  
-This site was built using Heroku. >>> [Live version](https://ticketsupportsystem.herokuapp.com/)
 
-Local version
+
+Local version repo
 
 >https://github.com/baristure/TicketSystem_Local
 
@@ -49,7 +52,7 @@ Local version
 Clone this repository. Start your local server and database.
 
 ### Create Database Tables
-To store the user’s and tickets information a table needs to be created in the 'ticket' database. Create a database named 'ticket'. After that open the 'ticket.sql' file ; copy and run commands in SQL command line.
+To store the user’s and ticket's information a table needs to be created in the 'ticket' database. Create a database named 'ticket'. After that open the 'ticket.sql' file ; copy and run commands in SQL command line.
 
 ### Config
 config.php
@@ -61,6 +64,6 @@ Set this line for your server's url
 After this step you can run app.
 
 
-#####This repository is a TicketSystem page made for pre-work phase of İpsizcambaz A.Ş.
+##### This repository is a TicketSystem page made for pre-work phase of İpsizcambaz A.Ş.
 
  
